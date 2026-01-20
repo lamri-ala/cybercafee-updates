@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "build_number": 2,
     "download_url": "https://github.com/lamri-ala/cybercafee-updates/archive/refs/tags/v1.0.1.zip",
     "release_notes": "Bug fixes and improvements:\n• Fixed update checking\n• Improved performance\n• Enhanced UI",
@@ -9,3 +9,4 @@
     "minimum_version": "1.0.0"
 
 }
+
