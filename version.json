@@ -1,0 +1,10 @@
+{
+    "version": "1.0.1",
+    "build_number": 2,
+    "download_url": "https://example.com/CyberLinkManager-v1.0.1-Setup.exe",
+    "release_notes": "Bug fixes and improvements:\n• Fixed update checking\n• Improved performance\n• Enhanced UI",
+    "file_size": 25600000,
+    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "release_date": "2026-01-20T21:00:00Z",
+    "minimum_version": "1.0.0"
+}
