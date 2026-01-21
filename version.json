@@ -3,9 +3,10 @@
     "build_number":  3,
     "download_url":  "https://github.com/lamri-ala/cybercafee-updates/releases/download/1.0.3/CyberLink_Manager_Installer.exe",
     "release_notes":  "Bug fixes and improvements:\n• Fixed update checking\n• Improved performance\n• Enhanced UI",
-    "file_size":  13419163,
-    "checksum":  "90403D0085265C75B05EBBDDD7517DDF1776ECC39A7D0B743042B334BE0292DF",
-    "release_date":  "2026-01-21T21:10:53Z",
+    "file_size":  13419789,
+    "checksum":  "9FCFB9A879AB777B9F6BFDD5F52A14C7DDCD03C121CC4ACA921F3D2154528EDD",
+    "release_date":  "2026-01-21T22:43:01Z",
     "minimum_version":  "1.0.0"
 }
+
 
